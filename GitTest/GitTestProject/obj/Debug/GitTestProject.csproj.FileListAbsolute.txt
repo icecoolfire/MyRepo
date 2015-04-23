@@ -1,0 +1,7 @@
+C:\Users\zyb\签出code\GitTest\GitTestProject\bin\Debug\GitTestProject.exe.config
+E:\GitRepo\GitTest\GitTestProject\bin\Debug\GitTestProject.exe.config
+E:\GitRepo\GitTest\GitTestProject\bin\Debug\GitTestProject.exe
+E:\GitRepo\GitTest\GitTestProject\bin\Debug\GitTestProject.pdb
+E:\GitRepo\GitTest\GitTestProject\obj\Debug\GitTestProject.csprojResolveAssemblyReference.cache
+E:\GitRepo\GitTest\GitTestProject\obj\Debug\GitTestProject.exe
+E:\GitRepo\GitTest\GitTestProject\obj\Debug\GitTestProject.pdb
